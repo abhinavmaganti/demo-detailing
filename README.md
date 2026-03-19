@@ -1,4 +1,4 @@
-# 🚗 Deluxe Details — Premium Mobile Car Detailing Website
+# 🚗 Demo Detailing— Premium Mobile Car Detailing Website
 
 Built with **Next.js 14** + **Tailwind CSS**, ready for Vercel deployment.
 
