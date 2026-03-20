@@ -125,7 +125,7 @@ export default function Contact() {
 
               {/* Instagram */}
               <a
-                href="https://instagram.com/deluxe._details"
+                href="https://instagram.com/deluxe._.details"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-5 rounded-2xl glass-card border border-white/5 hover:border-pink-500/30 transition-all duration-300 group"
@@ -138,7 +138,7 @@ export default function Contact() {
                 <div>
                   <p className="text-xs tracking-widest uppercase text-silver-500 mb-0.5">Instagram</p>
                   <p className="font-semibold text-white group-hover:text-pink-400 transition-colors">
-                    @deluxe._details
+                    @deluxe._.details
                   </p>
                 </div>
               </a>
